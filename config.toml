@@ -1,0 +1,5 @@
+baseURL = 'https://Lpaladie.github.io/konstwikihugo'
+languageCode = 'ru-ru'
+title = 'ERP4FOOD'
+theme = "ace-documentation"
+publishDir = "docs"

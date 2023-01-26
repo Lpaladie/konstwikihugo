@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ERP4FOOD</title>
+    <link>https://Lpaladie.github.io/konstwikihugo/</link>
+    <description>Recent content on ERP4FOOD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 25 Jan 2023 12:35:15 +0300</lastBuildDate><atom:link href="https://Lpaladie.github.io/konstwikihugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Top</title>
+      <link>https://Lpaladie.github.io/konstwikihugo/page-top/</link>
+      <pubDate>Wed, 25 Jan 2023 12:35:36 +0300</pubDate>
+      
+      <guid>https://Lpaladie.github.io/konstwikihugo/page-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Настройка логирования</title>
+      <link>https://Lpaladie.github.io/konstwikihugo/honestsign/logging/</link>
+      <pubDate>Wed, 25 Jan 2023 12:32:38 +0300</pubDate>
+      
+      <guid>https://Lpaladie.github.io/konstwikihugo/honestsign/logging/</guid>
+      <description>В системе предусмотрена возможность записи всех действий, связанных с обменом с ИС МП, в лог. В случае необходимости, при запросе логов со стороны ЦРПТ, необходимо включить логирование, выполнить необходимые обмены и сохранить логи в файл.
+Для записи логов необходимо включить функцию &amp;ldquo;Сохранять общий лог обмена ИС МП&amp;rdquo;.
+Для этого необходимо установить соответствующий флаг в обработке &amp;ldquo;Интеграции с ИС МП (молоко)&amp;rdquo; расположенной в разделе &amp;ldquo;Честный знак&amp;rdquo; в подсистеме &amp;ldquo;Сервис&amp;rdquo; в пункте &amp;ldquo;См.</description>
+    </item>
+    
+  </channel>
+</rss>
